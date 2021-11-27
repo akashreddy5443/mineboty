@@ -1,7 +1,7 @@
 {
  "ip": "smallsmp2.aternos.me",
- "port": "",
- "name": "akash bot for 24/7",
+ "port": "54461",
+ "name": "akash",
  "auto-night-skip": "false",
  "loginmsg": "hi"
 }
